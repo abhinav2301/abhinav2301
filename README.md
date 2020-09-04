@@ -16,6 +16,9 @@
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Microsoft Excel-informational?style=flat&logo=microsoft excel&logoColor=white&color=2bbc8a)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=abhinav2301&theme=gotham&count_private=true&show_icons=true" />
 
 
