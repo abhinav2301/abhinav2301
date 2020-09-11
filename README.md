@@ -22,6 +22,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=abhinav2301&theme=gotham&count_private=true&show_icons=true" />
 
 
-
+* Note : Projcts have been organized under Organizations for easier Access. Relevant Projects Overview and Links have been hosted on the Profolio Page linked above.
 
 
