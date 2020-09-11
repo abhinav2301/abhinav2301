@@ -3,6 +3,8 @@
   Hi, I'm a data analyst at IQVIA and I primarily work on Pharmaceutical Analytics. I'm an avid data science enthusiast and also love to write.
   
   Would love to collaborate on Data Science or NLP Projects. You can find me on  [![LinkedIn][1.2]][1].
+  
+  [View Portfolio](https://abhinav2301.github.io/Portfolio/) * Under Construction :P
 
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
