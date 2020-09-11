@@ -4,8 +4,8 @@
   
   Would love to collaborate on Data Science or NLP Projects. You can find me on  [![LinkedIn][1.2]][1].
   
-  You can find a detailed Portfolio of my Projects [here].  * Under Construction :P
-  [here](https://abhinav2301.github.io/Portfolio/) 
+  You can find a detailed Portfolio of my Projects [here](https://abhinav2301.github.io/Portfolio/)  * Under Construction :P
+ 
 
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
