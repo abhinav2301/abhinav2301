@@ -1,6 +1,5 @@
-# Abhinav Pradeep, Data Analyst - IQVIA
-
-  Hi, I'm a data analyst at IQVIA and I primarily work on Pharmaceutical Analytics. I'm an avid data science enthusiast and also love to write.
+# Abhinav Pradeep - Consultant, Trinity Life Sciences
+  Hi, I'm a consultant at Trinity life sciences and I primarily work on Pharmaceutical Analytics. I'm an avid data science enthusiast and also love to write.
   
   Would love to collaborate on Data Science or NLP Projects. You can find me on  [![LinkedIn][1.2]][1].
   
